@@ -1,0 +1,10 @@
+# Custom Port Added
+server:
+  port: 8081
+
+# Custom User And Password Added
+spring:
+  security:
+    user:
+      username: admin
+      password: admin
